@@ -1,6 +1,6 @@
 # Ananos Node Monitor
 
-![GitHub release](https://img.shields.io/github/release/AnanosNetwork/AnanosNodeMonitor.svg?style=flat-square) [![StyleCI](https://styleci.io/repos/118352667/shield?branch=master)](https://styleci.io/repos/803179383) [![Docker Pulls](https://img.shields.io/docker/pulls/AnanosNetwork/AnanosNodeMonitor.svg?style=flat-square)](https://hub.docker.com/r/nanotools/nanonodemonitor/)
+![GitHub release](https://img.shields.io/github/release/AnanosNetwork/AnanosNodeMonitor.svg?style=flat-square) [![StyleCI](https://styleci.io/repos/118352667/shield?branch=master)](https://styleci.io/repos/803179383)
 
 Ananos Node Monitor is a server-side PHP-based monitor for Nano, Banano and Ananos nodes. It connects to a running node via RPC and displays it's status on a simple webpage. Being server-side, it does not expose the RPC interface of the Nano node to the public.
 
