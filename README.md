@@ -55,6 +55,8 @@ $nanoNodeRPCIP   = '127.0.0.1';
 $nanoNodeRPCPort = '7076';
 ```
 
-## Creating a Theme
+## Orginal Project
 
-If you're interested in creating your own theme in addition to the official Light,  Dark, Banano, Ananos themes, we've made it very simple for you to do so. Check out the [Wiki](https://github.com/NanoTools/nanoNodeMonitor/wiki/Create-a-theme) for more info.
+Thanks to grate work of [NanoTools team](https://github.com/NanoTools) 
+
+https://github.com/NanoTools/nanoNodeMonitor
